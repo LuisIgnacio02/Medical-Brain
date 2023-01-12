@@ -1,3 +1,0 @@
-#Pediatrics 
-
-[[Elimination disorders]]

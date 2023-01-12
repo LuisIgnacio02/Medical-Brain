@@ -1,5 +1,0 @@
-#Antidepressants #SNRI
-
-## Examples
-
-[[Duloxetine]]

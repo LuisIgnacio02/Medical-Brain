@@ -1,1 +1,0 @@
-They act on [[Streptococci]], but resistant [[Viridans Streptococci]] and [[Streptococcus pneumoniae]] are emerging, specially in pediatric patients; most commonly, they are also resistant to third-generation [[Cephalosporins]]. 

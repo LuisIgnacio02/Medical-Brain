@@ -1,5 +1,0 @@
-#Steroids 
-
-## Examples
-
-[[Estrogen]]
